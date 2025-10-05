@@ -1,6 +1,7 @@
 # SSH Remote Server Setup Project
 [https://roadmap.sh/projects/ssh-remote-server-setup
 ](https://roadmap.sh/projects/static-site-server)
+https://roadmap.sh/projects/basic-dns
 ## Project Goal
 
 Learn how to set up and connect to a Linux server via SSH, configure basic security, and understand remote server management.
